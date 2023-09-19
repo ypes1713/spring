@@ -1,4 +1,4 @@
-使用java程式語言，利用java springboot框架，並使用thymeleaf作為html模板，實作商品CRUD練習。
+使用java程式語言，利用java springboot框架，並使用thymeleaf作為html模板，ORM使用hibernate，資料庫使用mySQL，實作商品CRUD練習。
 參考來源:https://www.youtube.com/playlist?list=PLbtI3_MArDOlnBkBS-O04_YNIaZG4yetn
 ## 作品如下:
 __1.登入頁面__
